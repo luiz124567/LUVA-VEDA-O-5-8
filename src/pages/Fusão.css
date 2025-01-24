@@ -1,0 +1,23 @@
+*{
+    margin: 2px;
+    padding: 0;
+}
+header{
+    width: 90%;
+    font-size:3rem;
+    font-weight:700;
+    padding-top: 3rem;
+}
+img{
+    width: 95%;
+    padding-top: 2rem; 
+}
+ div p{
+width:90%;
+font-size:21px;
+padding: 0 0 0 10px;
+}
+.pçs{
+    width: 90%;
+    padding-bottom:1rem;
+}
