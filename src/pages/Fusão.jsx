@@ -1,11 +1,11 @@
 import MOLDEFUNDIDO from "../img/MOLDEFUNDIDO.webp";
-import Arvoregm from "../img/Arvoregm.webp";
+import MOLDE_LUVA from "../img/MOLDE_LUVA.webp";
 import "../pages/Fusão.css";
 function Fusão(props) {
   return (
     <div>
       <header>{props.PODRUTO}</header>
-      <img className="pçs" src={Arvoregm} />
+      <img className="pçs" src={MOLDE_LUVA} />
       <p>{props.descrição06}</p>
       <p>{props.descrição07}</p>
       <p>{props.descrição08}</p>
