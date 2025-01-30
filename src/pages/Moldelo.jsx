@@ -1,6 +1,6 @@
 import moldelo01 from "../img/modelo01.webp";
 import pcs from "../img/pcs.webp";
-import LOGO from "../img/LOGO.png";
+import LOGO from "../img/LOGO.webp";
 import "../pages/Modelo.css";
 function Modelo(props) {
   return (
