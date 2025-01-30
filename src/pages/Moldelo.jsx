@@ -1,4 +1,4 @@
-import moldelo from "../img/modelo.webp";
+import moldelo01 from "../img/modelo01.webp";
 import pcs from "../img/pcs.webp";
 import Logo from "../img/Logo.webp";
 import "../pages/Modelo.css";
@@ -12,7 +12,7 @@ function Modelo(props) {
       <img src={pcs} />
       <p className="T-MODELO">MODELO</p>
       <div>
-        <img src={moldelo} />
+        <img src={moldelo01} />
       </div>
       <div>
         <p>{props.descrição01}</p>
