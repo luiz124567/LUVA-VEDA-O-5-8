@@ -1,12 +1,12 @@
 import moldelo01 from "../img/modelo01.webp";
 import pcs from "../img/pcs.webp";
-
+import Logo from "../img/Logo.webp";
 import "../pages/Modelo.css";
 function Modelo(props) {
   return (
     <div>
       <div>
-     
+        <img src={Logo} />
       </div>
       <header id="nome_produto">{props.PODRUTO}</header>
       <img src={pcs} />
