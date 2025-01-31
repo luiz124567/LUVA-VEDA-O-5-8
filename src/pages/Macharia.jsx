@@ -7,7 +7,7 @@ function Macharia(props) {
     <div>
       <header>{props.PODRUTO}</header>
       <img src={MACHO_LUVA} />
-      <p className="T-SETOR01">MOLDE DA ANCORAGEM 5/8 GM 16 FIGURAS</p>
+      <p className="T-SETOR01">MOLDE DA LUVA VEDAÇÃO 5/8 16 FIGURAS</p>
       <div>
         <video src={LUVA_COLOÇÃO_MACHO} poster={MOLDE_MACHO} controls ></video>
       </div>
